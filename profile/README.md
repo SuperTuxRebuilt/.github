@@ -1,5 +1,5 @@
 SuperTux Rebuilt is a fanmade attempt to "rebuild" SuperTux from the ground up 
-with a focus on simplicity and fun rather than complicated puzzles and mechanics.
+with a focus on new ideas, simplicity, and fun.
 
 It is not meant to be rude towards SuperTux Team, they have done a lot of hard 
 work on SuperTux Milestone 2 and beyond.
